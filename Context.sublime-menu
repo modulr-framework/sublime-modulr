@@ -1,0 +1,9 @@
+[{
+    "id" : "Modulr",
+    "caption": "Modulr",
+    "children":
+    [{
+        "caption" : "define",
+        "command" : "modulrdefine"
+    }]
+}]
